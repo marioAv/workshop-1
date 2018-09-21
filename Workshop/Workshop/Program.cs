@@ -16,6 +16,7 @@ namespace Workshop
         }
 
     }
+    //Este comentario esta hecho por aldoc36
     public class Repository
     {
         workshopEntities _context;
@@ -60,6 +61,9 @@ namespace Workshop
     {
         static void Main(string[] args)
         {
+
+            //This comment was made by Christian
+
             Repository _rep = new Repository();
             BusinessLogic _bl = new BusinessLogic();
 

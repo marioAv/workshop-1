@@ -56,7 +56,7 @@ namespace Workshop
             return _context.users.ToList();
         }
     }
-    //This comment was made by David
+    //This comment was made by David - vamnos al carls
     class Program
     {
         static void Main(string[] args)
